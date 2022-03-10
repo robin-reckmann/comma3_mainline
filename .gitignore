@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#
+out/
+vble-qti.key
